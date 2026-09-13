@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="optimus-logo.png" alt="Optimus logo" width="280">
+</p>
+
 # Optimus
 
 A lightweight terminal interface for local Ollama models, written in Go.
