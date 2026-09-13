@@ -1,0 +1,6 @@
+/.optimus/
+/.claude/settings.local.json
+/dist/
+/bin/
+/optimus
+*.test
